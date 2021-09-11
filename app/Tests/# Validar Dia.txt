@@ -1,0 +1,10 @@
+# Verificar se a data foi preenchida
+
+# Validar Dia
+    - Quantidade de dias de cada mês
+# Validar Mes
+    - Verificar se o mês existe 
+# Validar Ano
+    - Ano Bissexto
+    
+# Verificar a mascara da data
